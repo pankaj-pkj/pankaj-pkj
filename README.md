@@ -1,180 +1,99 @@
 <div align="center">
 
-<!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=250&text=PANKAJ&fontSize=90&fontColor=ffffff&animation=twinkling&desc=%E2%9C%A6%20CODIAN%20STUDIO%20%E2%9C%A6&descSize=25&descAlignY=75&stroke=00C9FF&strokeWidth=1" width="100%"/>
-
-<!-- Typing intro -->
-<a href="https://github.com/pankaj-pkj">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=600&color=00C9FF&center=true&vCenter=true&width=700&height=60&lines=%E2%9A%A1+App+Developer+%7C+AI+Builder+%E2%9A%A1;%F0%9F%93%B1+Kotlin+%E2%80%A2+Flutter+%E2%80%A2+Python;%F0%9F%A4%96+Building+AI+Powered+Products;%F0%9F%9A%80+Founder+of+Codian+Studio;%F0%9F%94%A5+Turning+Ideas+Into+Reality" alt="Typing SVG"/>
-</a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Badges row -->
-<p>
-<a href="mailto:studiocodian@gmail.com"><img src="https://img.shields.io/badge/Gmail-studiocodian@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="email"/></a>
-<a href="https://t.me/codian_studio"><img src="https://img.shields.io/badge/Telegram-@codian__studio-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" alt="telegram"/></a>
-</p>
+<img src="assets/hero.svg" width="100%" alt="Pankaj Kumawat — Android, Flutter and AI developer from India, founder of Codian Studio">
 
 <p>
-<a href="https://github.com/pankaj-pkj?tab=followers"><img src="https://img.shields.io/github/followers/pankaj-pkj?label=FOLLOWERS&style=for-the-badge&logo=github&color=8E2DE2&labelColor=0d1117" alt="followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=pankaj-pkj&style=for-the-badge&color=00C9FF&label=PROFILE+VIEWS" alt="views"/>
-<img src="https://img.shields.io/badge/STATUS-BUILDING%20%F0%9F%94%A5-success?style=for-the-badge&labelColor=0d1117" alt="status"/>
+<a href="https://www.codianstudio.org/"><img src="https://img.shields.io/badge/PORTFOLIO-codianstudio.org-ff6a2b?style=for-the-badge&labelColor=0d1117" alt="Portfolio"></a>
+<a href="https://tipzpop.in/"><img src="https://img.shields.io/badge/TIPZPOP-tipzpop.in-c25cff?style=for-the-badge&labelColor=0d1117" alt="TipzPop"></a>
+<a href="mailto:studiocodian@gmail.com"><img src="https://img.shields.io/badge/EMAIL-studiocodian@gmail.com-EA4335?style=for-the-badge&labelColor=0d1117" alt="Email"></a>
+<a href="https://t.me/codian_studio"><img src="https://img.shields.io/badge/TELEGRAM-@codian__studio-26A5E4?style=for-the-badge&labelColor=0d1117" alt="Telegram"></a>
 </p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="assets/divider.svg" width="100%" alt="">
 
-<!-- ═══════════════════ ABOUT ═══════════════════ -->
+## 👋 Hi, I'm Pankaj Kumawat
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+I'm an **Android, Flutter and AI developer from India** and the founder of **[Codian Studio](https://www.codianstudio.org/)**.
+I design, build and ship products end to end — product thinking, UI, app code, backend, payments and the launch.
+My main product is **[TipzPop](https://tipzpop.in/)**, a non-custodial UPI tipping platform for live streamers.
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="330" alt="coding gif"/>
-
-```typescript
-const pankaj = {
-    brand: "⚡ Codian Studio",
-    role: "App Developer & AI Builder",
-    code: ["Kotlin", "Dart", "Python", "JavaScript"],
-    building: {
-        mobile: ["SmartConnect 📱", "AI Master 🤖", "Esports 🎮"],
-        ai: ["Super AI 🧠", "MasterBot ⚙️"],
-        web: ["SmartConnect Web 🌐"],
-    },
-    mission: "Ship real products, not just code 🚀",
-    funFact: "I debug faster at 2 AM 🌙",
-};
+```kotlin
+val pankaj = Developer(
+    name    = "Pankaj Pourwal Kumawat",
+    studio  = "Codian Studio",
+    country = "India",
+    stack   = listOf("Kotlin", "Jetpack Compose", "Flutter", "Firebase", "Node.js", "Python"),
+    mission = "Ship real products, not just code",
+)
 ```
 
-- 🔭 Building **SmartConnect** — smart connectivity ecosystem (Android + Web)
-- 🤖 Creating **AI Master & Super AI** — next-gen AI assistants
-- 🎮 Developing an **Esports** tournament platform
-- ⚡ Automating everything with **Python bots & workers**
+<img src="assets/stack.svg" width="100%" alt="Kotlin, Jetpack Compose, Flutter, Firebase, Node.js, Socket.io, Python, React, Three.js, Gemini AI, UPI, Telegram bots">
 
-<br clear="right"/>
+<img src="assets/divider.svg" width="100%" alt="">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🚀 Projects
 
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+<table>
+<tr>
+<td width="50%"><a href="https://www.codianstudio.org/projects/tipzpop/"><img src="assets/cards/tipzpop.svg" width="100%" alt="TipzPop — Tips that pop on your stream."></a></td>
+<td width="50%"><a href="https://www.codianstudio.org/projects/codian-esports/"><img src="assets/cards/codian-esports.svg" width="100%" alt="Codian Esports — Drop in. Fight. Win."></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://www.codianstudio.org/projects/smartconnect/"><img src="assets/cards/smartconnect.svg" width="100%" alt="SmartConnect — Tap. Connect. Share."></a></td>
+<td width="50%"><a href="https://www.codianstudio.org/projects/pxj-ai-master/"><img src="assets/cards/pxj-ai-master.svg" width="100%" alt="PXJ AI Master — Writing, made easy."></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://www.codianstudio.org/projects/whiteboard-studio-pro/"><img src="assets/cards/whiteboard-studio-pro.svg" width="100%" alt="Whiteboard Studio Pro — A digital whiteboard for classes and notes."></a></td>
+<td width="50%"><a href="https://www.codianstudio.org/projects/my-wish/"><img src="assets/cards/my-wish.svg" width="100%" alt="My Wish — A 3D wish for someone you love."></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://www.codianstudio.org/projects/super-ai/"><img src="assets/cards/super-ai.svg" width="100%" alt="Super AI — Code and answers, in your browser."></a></td>
+<td width="50%"><a href="https://www.codianstudio.org/projects/motion-lab/"><img src="assets/cards/motion-lab.svg" width="100%" alt="Motion Lab — Scroll, drag, and watch things move."></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://www.codianstudio.org/projects/ui-designer-studio/"><img src="assets/cards/ui-designer-studio.svg" width="100%" alt="UI Designer Studio — One design. Nine frameworks."></a></td>
+<td width="50%"><a href="https://www.codianstudio.org/projects/macro-recorder/"><img src="assets/cards/macro-recorder.svg" width="100%" alt="Macro Recorder — Record taps once. Replay them forever."></a></td>
+</tr>
+</table>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Arsenal
+<p align="center"><a href="https://www.codianstudio.org/#apps"><b>See every project, screenshots and downloads on codianstudio.org →</b></a></p>
 
-<div align="center">
+> The code of my products is private. Each project page has the story, features, screenshots and the **APK / Google Play / live links**.
 
-### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,kotlin,dart,flutter,js,html,css&theme=dark" alt="languages"/>
+<img src="assets/divider.svg" width="100%" alt="">
 
-### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,firebase,linux,figma&theme=dark" alt="tools"/>
+## 📲 Download
 
-<br/>
+| App | Get it |
+|---|---|
+| **Codian Esports** — Free Fire & BGMI tournaments | [Download APK](https://www.codianstudio.org/projects/codian-esports/) |
+| **SmartConnect** — offline digital business card | [Download APK](https://www.codianstudio.org/projects/smartconnect/) |
+| **UI Designer Studio** — one design, nine frameworks | [Download APK](https://www.codianstudio.org/projects/ui-designer-studio/) |
+| **Macro Recorder** — record and replay taps | [Download APK](https://www.codianstudio.org/projects/macro-recorder/) |
+| **Whiteboard Studio Pro** — offline whiteboard & PDF notes | [Google Play](https://play.google.com/store/apps/details?id=com.smartboard.studio.pro) |
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI/ML-FF6F61?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Automation-FFD43B?style=for-the-badge&logo=zapier&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="assets/divider.svg" width="100%" alt="">
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════ PROJECTS ═══════════════════ -->
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/pankaj-pkj/SmartConnect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pankaj-pkj&repo=SmartConnect&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=8E2DE2" alt="SmartConnect"/></a>
-<a href="https://github.com/pankaj-pkj/Ai-MASTER"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pankaj-pkj&repo=Ai-MASTER&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=8E2DE2" alt="Ai-MASTER"/></a>
-
-<a href="https://github.com/pankaj-pkj/Super-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pankaj-pkj&repo=Super-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=8E2DE2" alt="Super-ai"/></a>
-<a href="https://github.com/pankaj-pkj/Esports"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pankaj-pkj&repo=Esports&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=8E2DE2" alt="Esports"/></a>
-
-<a href="https://github.com/pankaj-pkj/MasterBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pankaj-pkj&repo=MasterBot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=8E2DE2" alt="MasterBot"/></a>
-<a href="https://github.com/pankaj-pkj/smartconnect-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pankaj-pkj&repo=smartconnect-web&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=8E2DE2" alt="smartconnect-web"/></a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════ STATS ═══════════════════ -->
-
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> GitHub Analytics
+## 🐍 Contribution snake
 
 <div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=pankaj-pkj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=8E2DE2&count_private=true&include_all_commits=true" alt="stats"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj-pkj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&langs_count=8" alt="top languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=pankaj-pkj&theme=tokyonight&hide_border=true&background=0d1117&ring=00C9FF&fire=8E2DE2&currStreakLabel=00C9FF" alt="streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pankaj-pkj&theme=react-dark&hide_border=true&bg_color=0d1117&color=00C9FF&line=8E2DE2&point=00C9FF&area=true&area_color=4A00E0" width="97%" alt="activity graph"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════ SNAKE ═══════════════════ -->
-
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Contribution Snake
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pankaj-pkj/pankaj-pkj/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pankaj-pkj/pankaj-pkj/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/pankaj-pkj/pankaj-pkj/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/pankaj-pkj/pankaj-pkj/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
-
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🤝 Let's build something
 
-<!-- ═══════════════════ TROPHIES ═══════════════════ -->
+Have an app, a website, a bot or an AI feature in mind?
 
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"> Trophies
+| | |
+|---|---|
+| 🌐 Portfolio | [www.codianstudio.org](https://www.codianstudio.org/) |
+| ✉️ Email | [studiocodian@gmail.com](mailto:studiocodian@gmail.com) · [support@codianstudio.org](mailto:support@codianstudio.org) |
+| 💬 Telegram | [@codian_studio](https://t.me/codian_studio) · [@python_lovr](https://t.me/python_lovr) |
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pankaj-pkj&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect
-
-<div align="center">
-
-<a href="mailto:studiocodian@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email_Me-studiocodian@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" height="40"/>
-</a>
-<br/><br/>
-<a href="https://t.me/codian_studio">
-<img src="https://img.shields.io/badge/💬_Telegram-@codian__studio-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" height="40"/>
-</a>
-<br/><br/>
-<a href="https://github.com/pankaj-pkj">
-<img src="https://img.shields.io/badge/⭐_Follow_on-GitHub-8E2DE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" height="40"/>
-</a>
-
-<br/><br/>
-
-<!-- Random dev quote (refreshes) -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
-
-<br/>
-
-### 💜 *"Dream in code. Build in silence. Ship loud."* 💜
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=75" width="100%"/>
-
-</div>
+<p align="center"><sub>Pankaj Kumawat · Codian Studio · India</sub></p>

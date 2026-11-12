@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 200" width="560" height="200" role="img" aria-label="TipzPop — Tips that pop on your stream.">
+<defs>
+  <linearGradient id="bg0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#17140f"/><stop offset="1" stop-color="#0f0d0b"/></linearGradient>
+  <radialGradient id="gl0"><stop offset="0" stop-color="#c25cff" stop-opacity=".55"/><stop offset="1" stop-color="#c25cff" stop-opacity="0"/></radialGradient>
+  <linearGradient id="sh0" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <clipPath id="cp0"><rect width="560" height="200" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#cp0)">
+  <rect width="560" height="200" fill="url(#bg0)"/>
+  <circle cx="470" cy="150" r="140" fill="url(#gl0)"><animate attributeName="r" values="120;165;120" dur="5s" repeatCount="indefinite"/><animate attributeName="cx" values="470;430;470" dur="8s" repeatCount="indefinite"/></circle>
+  <rect width="5" height="200" fill="#c25cff"/>
+  <rect x="-200" width="200" height="200" fill="url(#sh0)" transform="skewX(-18)"><animate attributeName="x" values="-300;800" dur="6s" begin="0.0s" repeatCount="indefinite"/></rect>
+  <text x="28" y="44" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" letter-spacing="2" fill="#8d857a">WEB PLATFORM</text>
+  <rect x="480" y="28" width="52" height="22" rx="11" fill="none" stroke="#5dff9a" stroke-opacity=".5"/>
+  <circle cx="492" cy="39" r="3.2" fill="#5dff9a"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+  <text x="501" y="43" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1" fill="#5dff9a">LIVE</text>
+  <text x="28" y="98" font-family="Georgia,'Times New Roman',serif" font-size="44" fill="#ede6da" letter-spacing="-1">TipzPop</text>
+  <text x="28" y="128" font-family="'Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif" font-size="15.5" fill="#b9b0a3">Tips that pop on your stream.</text>
+  <rect x="28" y="150" width="66" height="24" rx="12" fill="none" stroke="#c25cff" stroke-opacity=".5"/><text x="61" y="166" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#cfc7bb">Node.js</text><rect x="101.80000000000001" y="150" width="66" height="24" rx="12" fill="none" stroke="#c25cff" stroke-opacity=".5"/><text x="135" y="166" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#cfc7bb">Express</text><rect x="175.60000000000002" y="150" width="81" height="24" rx="12" fill="none" stroke="#c25cff" stroke-opacity=".5"/><text x="216" y="166" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#cfc7bb">Socket.io</text>
+  <text x="532" y="184" text-anchor="end" font-family="'Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#c25cff">View project →</text>
+</g>
+<rect x=".5" y=".5" width="559" height="199" rx="19.5" fill="none" stroke="#ffffff" stroke-opacity=".1"/>
+</svg>

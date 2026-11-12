@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 64" width="1200" height="64" role="img" aria-label="Tech stack: Kotlin, Jetpack Compose, Flutter, Firebase, Node.js, Socket.io, Python, React, Three.js, Gemini AI, UPI, Telegram Bots">
+<defs><clipPath id="m"><rect width="1200" height="64" rx="14"/></clipPath></defs>
+<g clip-path="url(#m)"><rect width="1200" height="64" fill="#100e0c" stroke="#2a2622"/>
+<g><text y="41" font-family="Georgia,'Times New Roman',serif" font-size="28" fill="#ede6da" font-style="italic">Kotlin   •   Jetpack Compose   •   Flutter   •   Firebase   •   Node.js   •   Socket.io   •   Python   •   React   •   Three.js   •   Gemini AI   •   UPI   •   Telegram Bots   •   <tspan fill="#ff6a2b">Kotlin   •   Jetpack Compose   •   Flutter   •   Firebase   •   Node.js   •   Socket.io   •   Python   •   React   •   Three.js   •   Gemini AI   •   UPI   •   Telegram Bots   •   </tspan>Kotlin   •   Jetpack Compose   •   Flutter   •   Firebase   •   Node.js   •   Socket.io   •   Python   •   React   •   Three.js   •   Gemini AI   •   UPI   •   Telegram Bots   •   </text>
+<animateTransform attributeName="transform" type="translate" from="0 0" to="-1620 0" dur="38s" repeatCount="indefinite"/></g>
+<rect width="90" height="64" fill="url(#l)"/><rect x="1110" width="90" height="64" fill="url(#r)"/></g>
+<defs><linearGradient id="l"><stop offset="0" stop-color="#100e0c"/><stop offset="1" stop-color="#100e0c" stop-opacity="0"/></linearGradient>
+<linearGradient id="r"><stop offset="0" stop-color="#100e0c" stop-opacity="0"/><stop offset="1" stop-color="#100e0c"/></linearGradient></defs>
+</svg>

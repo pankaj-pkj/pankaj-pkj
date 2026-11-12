@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 200" width="560" height="200" role="img" aria-label="SmartConnect — Tap. Connect. Share.">
+<defs>
+  <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#17140f"/><stop offset="1" stop-color="#0f0d0b"/></linearGradient>
+  <radialGradient id="gl2"><stop offset="0" stop-color="#8f7dff" stop-opacity=".55"/><stop offset="1" stop-color="#8f7dff" stop-opacity="0"/></radialGradient>
+  <linearGradient id="sh2" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <clipPath id="cp2"><rect width="560" height="200" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#cp2)">
+  <rect width="560" height="200" fill="url(#bg2)"/>
+  <circle cx="470" cy="150" r="140" fill="url(#gl2)"><animate attributeName="r" values="120;165;120" dur="7s" repeatCount="indefinite"/><animate attributeName="cx" values="470;430;470" dur="10s" repeatCount="indefinite"/></circle>
+  <rect width="5" height="200" fill="#8f7dff"/>
+  <rect x="-200" width="200" height="200" fill="url(#sh2)" transform="skewX(-18)"><animate attributeName="x" values="-300;800" dur="6s" begin="1.4s" repeatCount="indefinite"/></rect>
+  <text x="28" y="44" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" letter-spacing="2" fill="#8d857a">ANDROID APP</text>
+  <rect x="480" y="28" width="52" height="22" rx="11" fill="none" stroke="#ffb35c" stroke-opacity=".5"/>
+  <circle cx="492" cy="39" r="3.2" fill="#ffb35c"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+  <text x="501" y="43" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1" fill="#ffb35c">BETA</text>
+  <text x="28" y="98" font-family="Georgia,'Times New Roman',serif" font-size="44" fill="#ede6da" letter-spacing="-1">SmartConnect</text>
+  <text x="28" y="128" font-family="'Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif" font-size="15.5" fill="#b9b0a3">Tap. Connect. Share.</text>
+  <rect x="28" y="150" width="58" height="24" rx="12" fill="none" stroke="#8f7dff" stroke-opacity=".5"/><text x="57" y="166" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#cfc7bb">Kotlin</text><rect x="94.4" y="150" width="125" height="24" rx="12" fill="none" stroke="#8f7dff" stroke-opacity=".5"/><text x="157" y="166" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#cfc7bb">Jetpack Compose</text><rect x="227.4" y="150" width="73" height="24" rx="12" fill="none" stroke="#8f7dff" stroke-opacity=".5"/><text x="264" y="166" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#cfc7bb">NFC NDEF</text>
+  <text x="532" y="184" text-anchor="end" font-family="'Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#8f7dff">View project →</text>
+</g>
+<rect x=".5" y=".5" width="559" height="199" rx="19.5" fill="none" stroke="#ffffff" stroke-opacity=".1"/>
+</svg>

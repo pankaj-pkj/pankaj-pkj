@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 200" width="560" height="200" role="img" aria-label="Macro Recorder — Record taps once. Replay them forever.">
+<defs>
+  <linearGradient id="bg9" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#17140f"/><stop offset="1" stop-color="#0f0d0b"/></linearGradient>
+  <radialGradient id="gl9"><stop offset="0" stop-color="#ffb020" stop-opacity=".55"/><stop offset="1" stop-color="#ffb020" stop-opacity="0"/></radialGradient>
+  <linearGradient id="sh9" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <clipPath id="cp9"><rect width="560" height="200" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#cp9)">
+  <rect width="560" height="200" fill="url(#bg9)"/>
+  <circle cx="470" cy="150" r="140" fill="url(#gl9)"><animate attributeName="r" values="120;165;120" dur="5s" repeatCount="indefinite"/><animate attributeName="cx" values="470;430;470" dur="9s" repeatCount="indefinite"/></circle>
+  <rect width="5" height="200" fill="#ffb020"/>
+  <rect x="-200" width="200" height="200" fill="url(#sh9)" transform="skewX(-18)"><animate attributeName="x" values="-300;800" dur="6s" begin="6.3s" repeatCount="indefinite"/></rect>
+  <text x="28" y="44" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" letter-spacing="2" fill="#8d857a">ANDROID APP</text>
+  <rect x="480" y="28" width="52" height="22" rx="11" fill="none" stroke="#ffb35c" stroke-opacity=".5"/>
+  <circle cx="492" cy="39" r="3.2" fill="#ffb35c"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+  <text x="501" y="43" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1" fill="#ffb35c">BETA</text>
+  <text x="28" y="98" font-family="Georgia,'Times New Roman',serif" font-size="44" fill="#ede6da" letter-spacing="-1">Macro Recorder</text>
+  <text x="28" y="128" font-family="'Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif" font-size="15.5" fill="#b9b0a3">Record taps once. Replay them forever.</text>
+  <rect x="28" y="150" width="58" height="24" rx="12" fill="none" stroke="#ffb020" stroke-opacity=".5"/><text x="57" y="166" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#cfc7bb">Kotlin</text><rect x="94.4" y="150" width="169" height="24" rx="12" fill="none" stroke="#ffb020" stroke-opacity=".5"/><text x="179" y="166" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#cfc7bb">Accessibility service</text><rect x="271.8" y="150" width="147" height="24" rx="12" fill="none" stroke="#ffb020" stroke-opacity=".5"/><text x="345" y="166" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#cfc7bb">Foreground service</text>
+  <text x="532" y="184" text-anchor="end" font-family="'Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#ffb020">View project →</text>
+</g>
+<rect x=".5" y=".5" width="559" height="199" rx="19.5" fill="none" stroke="#ffffff" stroke-opacity=".1"/>
+</svg>
