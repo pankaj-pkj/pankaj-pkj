@@ -18,6 +18,7 @@
 I'm an **Android, Flutter and AI developer from India** and the founder of **[Codian Studio](https://www.codianstudio.org/)**.
 I design, build and ship products end to end — product thinking, UI, app code, backend, payments and the launch.
 My main product is **[TipzPop](https://tipzpop.in/)**, a non-custodial UPI tipping platform for live streamers.
+New: **[PKJ Mails](https://github.com/pankaj-pkj/pkj-mails)** — an open-source webmail so anyone can run their own `you@yourdomain.com` inbox.
 
 ```kotlin
 val pankaj = Developer(
@@ -36,6 +37,9 @@ val pankaj = Developer(
 ## 🚀 Projects
 
 <table>
+<tr>
+<td colspan="2"><a href="https://www.codianstudio.org/projects/pkj-mails/"><img src="assets/cards/pkj-mails.svg" width="100%" alt="PKJ Mails — Your own webmail, with your own domain."></a></td>
+</tr>
 <tr>
 <td width="50%"><a href="https://www.codianstudio.org/projects/tipzpop/"><img src="assets/cards/tipzpop.svg" width="100%" alt="TipzPop — Tips that pop on your stream."></a></td>
 <td width="50%"><a href="https://www.codianstudio.org/projects/codian-esports/"><img src="assets/cards/codian-esports.svg" width="100%" alt="Codian Esports — Drop in. Fight. Win."></a></td>
